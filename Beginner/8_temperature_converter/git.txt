@@ -3,4 +3,3 @@
 3. Turn the folder into a repository
 4. Track your files
 
-Subscribe to Pypro
