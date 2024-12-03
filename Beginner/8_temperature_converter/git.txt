@@ -1,0 +1,5 @@
+1. First we need to add our name to tell git who the author is
+2. Also set the default branch name
+3. Turn the folder into a repository
+4. Track your files
+
